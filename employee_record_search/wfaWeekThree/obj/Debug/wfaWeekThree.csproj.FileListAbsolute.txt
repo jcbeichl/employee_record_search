@@ -1,0 +1,20 @@
+C:\Users\Chris\source\repos\wfaWeekThree\wfaWeekThree\bin\Debug\wfaWeekThree.exe.config
+C:\Users\Chris\source\repos\wfaWeekThree\wfaWeekThree\bin\Debug\wfaWeekThree.exe
+C:\Users\Chris\source\repos\wfaWeekThree\wfaWeekThree\bin\Debug\wfaWeekThree.pdb
+C:\Users\Chris\source\repos\wfaWeekThree\wfaWeekThree\obj\Debug\wfaWeekThree.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\wfaWeekThree\wfaWeekThree\obj\Debug\wfaWeekThree.Form1.resources
+C:\Users\Chris\source\repos\wfaWeekThree\wfaWeekThree\obj\Debug\wfaWeekThree.Properties.Resources.resources
+C:\Users\Chris\source\repos\wfaWeekThree\wfaWeekThree\obj\Debug\wfaWeekThree.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\wfaWeekThree\wfaWeekThree\obj\Debug\wfaWeekThree.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\wfaWeekThree\wfaWeekThree\obj\Debug\wfaWeekThree.exe
+C:\Users\Chris\source\repos\wfaWeekThree\wfaWeekThree\obj\Debug\wfaWeekThree.pdb
+C:\Users\Chris\Desktop\School Work\POS409\week.three.beichler\wfaWeekThree\wfaWeekThree\bin\Debug\wfaWeekThree.exe.config
+C:\Users\Chris\Desktop\School Work\POS409\week.three.beichler\wfaWeekThree\wfaWeekThree\bin\Debug\wfaWeekThree.exe
+C:\Users\Chris\Desktop\School Work\POS409\week.three.beichler\wfaWeekThree\wfaWeekThree\bin\Debug\wfaWeekThree.pdb
+C:\Users\Chris\Desktop\School Work\POS409\week.three.beichler\wfaWeekThree\wfaWeekThree\obj\Debug\wfaWeekThree.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\School Work\POS409\week.three.beichler\wfaWeekThree\wfaWeekThree\obj\Debug\wfaWeekThree.Form1.resources
+C:\Users\Chris\Desktop\School Work\POS409\week.three.beichler\wfaWeekThree\wfaWeekThree\obj\Debug\wfaWeekThree.Properties.Resources.resources
+C:\Users\Chris\Desktop\School Work\POS409\week.three.beichler\wfaWeekThree\wfaWeekThree\obj\Debug\wfaWeekThree.csproj.GenerateResource.cache
+C:\Users\Chris\Desktop\School Work\POS409\week.three.beichler\wfaWeekThree\wfaWeekThree\obj\Debug\wfaWeekThree.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\School Work\POS409\week.three.beichler\wfaWeekThree\wfaWeekThree\obj\Debug\wfaWeekThree.exe
+C:\Users\Chris\Desktop\School Work\POS409\week.three.beichler\wfaWeekThree\wfaWeekThree\obj\Debug\wfaWeekThree.pdb
